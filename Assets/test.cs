@@ -6,15 +6,6 @@ public class test : MonoBehaviour
 {
     // Start is called before the first frame update
     private int _number;
+    [SerializeField] private GameObject Gm;
     
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
