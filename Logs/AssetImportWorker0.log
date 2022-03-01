@@ -136,3 +136,36 @@ Received Import Request.
 Start importing Assets/test.cs using Guid(aefcf6a54a6137f4caa1a6f84888514a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e768f961043493a9dc839cb7ec5801c') in 0.064870 seconds 
   Import took 0.067812 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 2576.560218 seconds.
+  path: Packages/com.unity.nuget.newtonsoft-json/package.json
+  artifactKey: Guid(f8d4e5c2f2df25449ae8c391afbe5114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.nuget.newtonsoft-json/package.json using Guid(f8d4e5c2f2df25449ae8c391afbe5114) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3887d1616531507fa9c4f23ac1ba7ce0') in 0.093479 seconds 
+  Import took 0.129587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.769556 seconds.
+  path: Packages/com.neuecc.unirx/package.json
+  artifactKey: Guid(1ee65284d7591bb45a97552ef8b3a956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.neuecc.unirx/package.json using Guid(1ee65284d7591bb45a97552ef8b3a956) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9a067905e113fb1ec3c19e8b75189f1') in 0.003229 seconds 
+  Import took 0.007383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Packages/com.neuecc.unirx/UniRx.asmdef
+  artifactKey: Guid(560b04d1a97f54a4e82edc0cbbb69285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.neuecc.unirx/UniRx.asmdef using Guid(560b04d1a97f54a4e82edc0cbbb69285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52b358d022a575238c18236d5201ac26') in 0.008532 seconds 
+  Import took 0.011797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.858080 seconds.
+  path: Packages/com.cysharp.unitask/package.json
+  artifactKey: Guid(d1a9a71f68bb0d04db91ddaa3329abf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.cysharp.unitask/package.json using Guid(d1a9a71f68bb0d04db91ddaa3329abf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c161e0dcfa8fe70316b9f5b6aca6e5c1') in 0.002264 seconds 
+  Import took 0.004600 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
